@@ -81,40 +81,7 @@
                                                 <p> Tidak ada ulasan untuk produk ini.</p>
                                             @endif                                            
                                         </div> 
-                                        <!-- All-Reviews /- -->
-                                        <!-- Pagination-Review -->
-                                        <!-- <div class="pagination-review-area">
-                                            <div class="pagination-review-number">
-                                                <ul>
-                                                    <li style="display: none">
-                                                        <a href="single-product.html" title="Previous">
-                                                            <i class="fas fa-angle-left"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="active">
-                                                        <a href="single-product.html">1</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="single-product.html">2</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="single-product.html">3</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="single-product.html">...</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="single-product.html">10</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="single-product.html" title="Next">
-                                                            <i class="fas fa-angle-right"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div> -->
-                                        <!-- Pagination-Review /- -->
+                                        <!-- All-Reviews /- -->                                        
                                     </div>
                                     <!-- Get-Reviews /- -->
                                 </div>
